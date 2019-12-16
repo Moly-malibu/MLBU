@@ -22,8 +22,8 @@ description: How I can add value to your organization using Data Science
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Beautiful Jekyll: "http://monicadatascience.com/"
+    - Learn markdown: "http://monicadatascience.com/"
   Author's home: "https://monicadatascience.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
