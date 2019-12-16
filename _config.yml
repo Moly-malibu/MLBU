@@ -20,7 +20,7 @@ description: How I can add value to your organization using Data Science
 
 # List of links in the navigation bar
 navbar-links:
-      Home: "https://monicadatascience.com/"
+      
       About Me: "aboutme"
       Professional:
       - Beautiful Jekyll: "http://monicadatascience.com/"
