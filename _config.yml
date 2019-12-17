@@ -23,7 +23,7 @@ navbar-links:
       Home: "https://monicadatascience.com/"
       About Me: "aboutme"
       Professional:
-      - Beautiful Jekyll: "http://monicadatascience.com/"
+      - Learning Beautiful Jekyll: "http://monicadatascience.com/"
       - Learn markdown: "http://monicadatascience.com/"
     Experience: "Experience"
     Portfolio: "Portfolio"
