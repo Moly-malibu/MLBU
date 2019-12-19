@@ -11,6 +11,10 @@ My name is Monica Liliana Bustamante. I have the following qualities:
 
 How can I add value to your organization?
 
+\begin{align} 
+p = \begin{bmatrix} 1 & 3 \\ -1 & 2 \end{bmatrix}\end{align} 
+
+
 ### my history
 
 For the past five months, I have been involved in an immersive data science course with a high emphasis in real day to day working environment. 
